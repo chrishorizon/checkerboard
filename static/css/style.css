@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.title{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+h1{
+    background-color: red
+}
+
+table{
+    margin: 0px auto;
+}
+
+table tr td{
+    height: 50px;
+    width: 50px;
+}
+
+.c1{
+    background-color: red;
+}
+
+.c2{
+    background-color: black;
+}
