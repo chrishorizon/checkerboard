@@ -5,11 +5,14 @@
 
 .title{
     text-align: center;
-    margin: 20px 0px;
+    margin: 20px auto;
+    width: 450px;
+    font-size: 2.2rem;
 }
 
 h1{
-    background-color: red
+    background-color: red;
+    padding: 10px 20px;
 }
 
 table{
